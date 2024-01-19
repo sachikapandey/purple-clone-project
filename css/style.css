@@ -1,0 +1,215 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.section-1 .nav-1 {
+  background-color: white;
+  border: 1px solid lightgrey;
+}
+.section-1 .nav-1 img {
+  margin-top: 2.5rem;
+}
+.section-1 .nav-1 p {
+  margin-top: 2.5rem;
+}
+.section-1 .nav-1 p .fa-magnifying-glass {
+  color: lightgrey;
+}
+.section-1 .nav-1 ul {
+  margin-top: 2.5rem;
+  list-style: none;
+}
+.section-1 .nav-1 ul .ul-menubar {
+  padding: 0 1rem;
+  font-size: 2rem;
+}
+.section-1 .nav-1 ul li .fa-face-smile {
+  position: relative;
+  display: inline-block;
+}
+.section-1 .para1 {
+  border-bottom: 2px solid rgb(99, 3, 99);
+  margin-bottom: 0.9rem;
+}
+.section-1 .card {
+  padding-top: 7px;
+  padding-right: 7px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: none;
+}
+
+.section-2 .nav-2 {
+  background-color: white;
+  border: 0.2px solid rgb(221, 216, 216);
+  box-shadow: rgba(173, 183, 192, 0.2) 0px 8px 24px;
+}
+.section-2 .nav-2 .ul-main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin: 0 10rem;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.7rem;
+  list-style: none;
+}
+
+.section-4 {
+  margin-left: 0.8rem;
+  margin-top: 2rem;
+}
+
+.section-5 h5 {
+  text-align: center;
+  margin-top: 3rem;
+}
+.section-5 p {
+  color: blue;
+  text-align: center;
+}
+.section-5 p i {
+  font-size: 0.8rem;
+}
+
+.section-6 img {
+  width: 70%;
+}
+.section-6 .paraone {
+  font-weight: 700;
+  margin-top: 0.6rem;
+  font-size: 1.5rem;
+}
+.section-6 .paraone .fa-indian-rupee-sign {
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+.section-6 .paraone strike {
+  color: rgb(185, 182, 182);
+  font-size: 0.7rem;
+  margin-left: 0.4rem;
+  margin-right: 0.2rem;
+}
+.section-6 .paraone span {
+  font-size: 0.7rem;
+  color: rgb(18, 63, 18);
+}
+.section-6 p {
+  margin-top: 1rem;
+}
+
+.section-8 h5 {
+  text-align: center;
+  margin-top: 3rem;
+}
+.section-8 p {
+  color: blue;
+  text-align: center;
+}
+.section-8 p i {
+  font-size: 0.8rem;
+}
+
+.section-9 {
+  padding-top: 1rem;
+}
+.section-9 img {
+  width: 70%;
+}
+.section-9 .paraone {
+  font-weight: 700;
+  margin-top: 0.6rem;
+  font-size: 1.5rem;
+}
+.section-9 .paraone .fa-indian-rupee-sign {
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+.section-9 .paraone strike {
+  color: rgb(185, 182, 182);
+  font-size: 0.7rem;
+  margin-left: 0.4rem;
+  margin-right: 0.2rem;
+}
+.section-9 .paraone span {
+  font-size: 0.7rem;
+  color: rgb(18, 63, 18);
+}
+.section-9 p {
+  margin-top: 1rem;
+}
+.section-9 .btn {
+  width: 100%;
+}
+
+.section-10 {
+  margin-top: 4rem;
+}
+
+.section-11 .main-content {
+  margin-top: 1.5rem;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  padding: 1rem;
+  margin-left: 1rem;
+  margin: 0.3rem;
+  color: rgb(179, 179, 179);
+}
+.section-11 .main-content h6 {
+  margin-left: 2rem;
+  color: rgb(151, 144, 144);
+}
+.section-11 .main-content ul {
+  list-style: none;
+  font-weight: 200;
+  font-size: 0.8rem;
+}
+.section-11 .bottom-footer {
+  margin-left: 1rem;
+  margin: 2rem 3rem;
+}
+.section-11 .bottom-footer ul {
+  list-style: none;
+  display: flex;
+  margin-left: 5rem;
+}
+.section-11 .bottom-footer ul li {
+  padding: 0 0.7rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+.section-11 .bottom-footer ul li a {
+  color: rgb(0, 204, 255);
+}
+.section-11 .bottom-footer h6 {
+  margin-left: 1rem;
+  color: rgb(151, 144, 144);
+}
+.section-11 .bottom-footer .card-imgs {
+  margin-left: 6rem;
+}
+.section-11 .bottom-footer p {
+  text-align: left;
+  font-size: 0.7rem;
+  font-weight: 250;
+  color: rgb(139, 137, 137);
+}
+
+.section-12 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+.section-12 h6 {
+  margin-left: 0rem;
+  color: rgb(151, 144, 144);
+  font-size: 0.8rem;
+}
+.section-12 p {
+  margin-left: 0rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: rgb(179, 179, 179);
+}/*# sourceMappingURL=style.css.map */
